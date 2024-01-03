@@ -10,17 +10,21 @@ Pratiquei a aprendi programação através de cursos online e projetos, tenho a 
 
 **Atualizações Recentes**:
 - **Junho 2022**: Comecei a estudar: [Curso JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
-- **Junho 2022**: Comecei a estudar: [Formação Full Stack JavaScript](https://www.thiago-medeiros.com/v2/)
-- **Fevereiro 2023**: Terminei o curso: [Formação Full Stack JavaScript](https://www.thiago-medeiros.com/v2/)
-- **Março 2023**: Prestes a começar um novo curso de FrontEnd
+- **Junho 2022**: Comecei a estudar: [Formação Full Stack JavaScript](https://www.youtube.com/watch?v=ivUTlmTAEgQ)*
+- **Fevereiro 2023**: Terminei o curso: [Formação Full Stack JavaScript](https://www.youtube.com/watch?v=ivUTlmTAEgQ)
+- **Março 2023 - Novembro 2023**: Fiz uma pausa no estudo por focar no emprego atual.
+- **Dezembro 2023**: Comecei a estudar: [Especialista Back-end Java](https://ebaconline.com.br/back-end-java-profession)
+
 
 ## Skills:
 
 #### Stack:
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)&nbsp;
 
@@ -36,6 +40,7 @@ Pratiquei a aprendi programação através de cursos online e projetos, tenho a 
 #### IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
 
 ## Contato:
@@ -46,3 +51,5 @@ Pratiquei a aprendi programação através de cursos online e projetos, tenho a 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/marcos-v-s/)
 </p>
 
+Obs:
+*Página do curso foi deletada, este é o vídeo de introdução.
