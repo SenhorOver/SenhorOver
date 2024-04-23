@@ -11,9 +11,9 @@ Pratiquei a aprendi programação através de cursos online e projetos, tenho a 
 **Atualizações Recentes**:
 - **Junho 2022**: Comecei a estudar: [Curso JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 - **Junho 2022**: Comecei a estudar: [Formação Full Stack JavaScript](https://www.youtube.com/watch?v=ivUTlmTAEgQ)*
-- **Fevereiro 2023**: Terminei o curso: [Formação Full Stack JavaScript](https://www.youtube.com/watch?v=ivUTlmTAEgQ)
-- **Março 2023 - Novembro 2023**: Fiz uma pausa no estudo por focar no emprego atual.
-- **Dezembro 2023**: Comecei a estudar: [Especialista Back-end Java](https://ebaconline.com.br/back-end-java-profession)
+- **Fevereiro 2023**: Terminei o curso: [Formação Full Stack JavaScript](https://www.youtube.com/watch?v=ivUTlmTAEgQ)*
+- **Março 2023 - Atual**: Fiz uma pausa no estudo por focar no emprego atual.
+- **Abril 2024**: Comecei bootcamp Santander: [Backend Java](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024)
 
 
 ## Skills:
