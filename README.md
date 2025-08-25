@@ -2,7 +2,7 @@
 
 Eu sou um aspirante a desenvolvedor WEB, sempre fui muito ligado a tecnologia em geral, com isso sempre pensei que poderia seguir o rumo de minha vida com um trabalho relacionado, fui apresentado a diversas áreas da tecnologia, mas a que mais me chamou atenção foi a de programador.
 
-Pratiquei a aprendi programação através de cursos online e projetos, tenho a ambição de continuar crescendo na área e aprendendo diversas coisas novas, até chegar ao ápice de um desenvolvedor.
+Pratiquei a aprendi programação através de cursos online e projetos, tenho a ambição de continuar crescendo na área e aprendendo diversas coisas novas, até me tornar um desenvolvedor completo.
 
  **Estou aberto para**:
 
